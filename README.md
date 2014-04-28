@@ -1,4 +1,4 @@
-# Bootstrap-Admin-Template  [![Build Status](https://travis-ci.org/onokumus/Bootstrap-Admin-Template.png)](https://travis-ci.org/onokumus/Bootstrap-Admin-Template) [![Dependency Status](https://david-dm.org/onokumus/Bootstrap-Admin-Template.svg?theme=shields.io)](https://david-dm.org/onokumus/Bootstrap-Admin-Template) [![devDependency Status](https://david-dm.org/onokumus/Bootstrap-Admin-Template/dev-status.svg?theme=shields.io)](https://david-dm.org/onokumus/Bootstrap-Admin-Template#info=devDependencies)
+# Bootstrap-Admin-Template  [![Build Status](https://travis-ci.org/SKCNS/Bootstrap-Admin-Template.png)](https://travis-ci.org/SKCNS/Bootstrap-Admin-Template) [![Dependency Status](https://david-dm.org/onokumus/Bootstrap-Admin-Template.svg?theme=shields.io)](https://david-dm.org/onokumus/Bootstrap-Admin-Template) [![devDependency Status](https://david-dm.org/onokumus/Bootstrap-Admin-Template/dev-status.svg?theme=shields.io)](https://david-dm.org/onokumus/Bootstrap-Admin-Template#info=devDependencies)
 
 > Free Admin Template Based On Twitter Bootstrap 3.x
 
